@@ -14,6 +14,7 @@ This project requires
 	glcdfont.c
 
 All of these can be found in people.ece.cornell.edu/land/courses/ece4760/
+
 It was written and compiled with the use of MPLAB X IDE
 
 ## Description
