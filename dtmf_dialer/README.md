@@ -5,6 +5,7 @@ For use with Sean Carrol's Big Board
 
 ## Requirements
 This project requires 
+```
 	pt_cornell_1_2_1.h by Bruce Land
 	tft_master.c by Syed Tahmid Mahbub
 	tft_master.h by Syed Tahmid Mahbub
@@ -12,8 +13,10 @@ This project requires
 	tft_gfx.h by Syed Tahmid Mahbub
 	config.h by Syed Tahmid Mahbub
 	glcdfont.c
+```
 
 All of these can be found in people.ece.cornell.edu/land/courses/ece4760/
+
 It was written and compiled with the use of MPLAB X IDE
 
 ## Description
