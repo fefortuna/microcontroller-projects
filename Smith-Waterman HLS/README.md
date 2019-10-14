@@ -1,5 +1,6 @@
 # Smith-Waterman
 
-## HLS implementation of Smith-Waterson algorithm
+## Description
+HLS implementation of Smith-Waterson algorithm
 
 	
