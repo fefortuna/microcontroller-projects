@@ -1,4 +1,4 @@
-# self-balancing robot
+# Self-Balancing Robot
 Project for ECE 4760 microcontroller class
 
 Project website

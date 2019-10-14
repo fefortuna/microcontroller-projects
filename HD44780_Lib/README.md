@@ -1,6 +1,7 @@
 # HD44780 LCD library
 
 Author: Felipe Fortuna
+
 MCU: NXP FRDM-K64F
 
 
